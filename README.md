@@ -11,6 +11,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whr819987540&hide=jupyter%20notebook,tex" alt="whr819987540's Top Langs" />
 </a>
 
+**Languages and Skills**
+
+<code><img height="20" src="img/python.png" alt="Python" title="Python"></code>
+<code><img height="20" src="img/git.png" alt="Git" title="Git"></code>
+<code><img height="20" src="img/docker.png" alt="Docker" title="Docker"></code>
+<code><img height="20" src="img/Go.png" alt="Go" title="Go"></code>
+<code><img height="20" src="img/mysql.png" alt="MySQL" title="MySQL"></code>
+<code><img height="20" src="img/pytorch-logo.png" alt="PyTorch" title="PyTorch"></code>
+
 Below are some repositories which I think will be helpful to you. More is to be discovered.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
